@@ -6,7 +6,7 @@
  * @package Quicktags Editor 
  * @author leton
  * @version 1.0.2
- * @link http://www.letonlife.cn
+ * @link http://www.letonlife.com
  */
 class Quicktags_Plugin implements Typecho_Plugin_Interface
 {
